@@ -1,4 +1,4 @@
-# login-server
+# Vue Typescript Template
 
 > A Vue.js project
 
